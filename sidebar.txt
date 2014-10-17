@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wed:home|Door43 (wed)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wed|d43-wed repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wed/archive/master.zip|d43-wed.zip]]
+
+**Recent Changes**
+{{changes>ns = wed}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wed|Ethnologue data]]
+
